@@ -1,0 +1,22 @@
+{
+  "name": "wasteapp-backend",
+  "version": "1.0.0",
+  "description": "Back-end code for our waste-tracking app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shs-programming-club/wasteapp-backend.git"
+  },
+  "author": "SHS Programming Club",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/shs-programming-club/wasteapp-backend/issues"
+  },
+  "homepage": "https://github.com/shs-programming-club/wasteapp-backend#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
